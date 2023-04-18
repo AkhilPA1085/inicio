@@ -151,6 +151,7 @@ header a{
     color: var(--dark-blue) !important;
     text-transform: capitalize;
     font-weight: 600;
+    margin-right: 20px;
 }
 
 header .navbar-toggler,header .navbar-toggler:focus{
@@ -714,11 +715,38 @@ Copy-write Section Starts
     text-transform: capitalize;
 }
 
+
+
+/*--------------------------------------------------------- 
+About Page Section
+-----------------------------------------------------------*/
+.about-page-section{
+    padding-top: 150px;
+}
+
+.about-page-section .section-sub-title{
+    margin-bottom: 20px;
+}
+
+.about-page-section .section-main-title{
+    font-size: 34px;
+    margin-bottom: 20px;
+}
+
+.about-page-section .section-description{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.about-page-section a{
+    margin-bottom: 100px;
+}
+
 /*--------------------------------------------------------- 
 Registration Page Section 
 -----------------------------------------------------------*/
 .register{
-    padding: 100px 0px;
+    padding: 150px 0px;
 }
 
 .register .section-description{
@@ -774,7 +802,7 @@ Registration Page Section
 Contact Page Section 
 -----------------------------------------------------------*/
 .contact-us-page{
-    padding: 100px 0px;
+    padding: 150px 0px;
 }
 
 .contact-us-page .section-description{
