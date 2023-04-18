@@ -261,6 +261,10 @@ Banner
 }
 
 @media(max-width:992px){
+    .banner .text-wrapper {
+        top: 50px;
+    }
+
     .banner .text-wrapper .banner-title{
         font-size: 34px;
     }
@@ -674,6 +678,7 @@ Footer Section Starts
 
 .footer .footer-list{
     list-style: none;
+    padding: 0;
 }
 
 .footer .footer-list .footer-link-title{
@@ -703,6 +708,7 @@ Copy-write Section Starts
 
 .copy-write .site-links-list{
     list-style: none;
+    padding: 0;
     display: flex;
     align-items: center;
 }
