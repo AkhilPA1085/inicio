@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="90" viewBox="0 0 120 90">
+  <defs>
+    <clipPath id="clip-_4">
+      <rect width="120" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="_4" data-name="4" clip-path="url(#clip-_4)">
+    <g id="Group_679" data-name="Group 679" transform="translate(35.254 24.887)">
+      <circle id="Ellipse_40" data-name="Ellipse 40" cx="8.433" cy="8.433" r="8.433" transform="translate(20.185 12.778)" fill="none" stroke="#47ae73" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <circle id="Ellipse_41" data-name="Ellipse 41" cx="3.257" cy="3.257" r="3.257" transform="translate(38.807 35.685)" fill="none" stroke="#47ae73" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <circle id="Ellipse_42" data-name="Ellipse 42" cx="3.681" cy="3.681" r="3.681" transform="translate(43.897)" fill="none" stroke="#47ae73" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <circle id="Ellipse_43" data-name="Ellipse 43" cx="5.087" cy="5.087" r="5.087" transform="translate(0 13.814)" fill="none" stroke="#47ae73" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Line_17" data-name="Line 17" x1="12.357" y2="11.426" transform="translate(35.22 3.681)" fill="none" stroke="#47ae73" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Line_18" data-name="Line 18" x1="8.01" y1="10.562" transform="translate(34.054 28.38)" fill="none" stroke="#47ae73" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Line_19" data-name="Line 19" x2="14.452" y2="1.419" transform="translate(5.087 18.901)" fill="none" stroke="#47ae73" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

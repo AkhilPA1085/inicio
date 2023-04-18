@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="193" height="424" viewBox="0 0 193 424">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_424" data-name="Rectangle 424" width="193" height="424" transform="translate(300 1831)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_27" data-name="Mask Group 27" transform="translate(-300 -1831)" clip-path="url(#clip-path)">
+    <g id="Group_635" data-name="Group 635" transform="translate(337.025 1846.47)">
+      <g id="Group_625" data-name="Group 625">
+        <rect id="Rectangle_414" data-name="Rectangle 414" width="17.5" height="445.252" rx="7.636" fill="#47ae73"/>
+      </g>
+      <g id="Group_626" data-name="Group 626" transform="translate(100.969)">
+        <rect id="Rectangle_415" data-name="Rectangle 415" width="17.5" height="445.252" rx="7.636" fill="#47ae73"/>
+      </g>
+      <g id="Group_627" data-name="Group 627" transform="translate(0 131.339)">
+        <rect id="Rectangle_416" data-name="Rectangle 416" width="17.5" height="118.469" rx="7.636" transform="translate(0 17.5) rotate(-90)" fill="#563f91"/>
+      </g>
+      <g id="Group_628" data-name="Group 628" transform="translate(0 174.09)">
+        <rect id="Rectangle_417" data-name="Rectangle 417" width="17.5" height="118.469" rx="7.636" transform="translate(0 17.5) rotate(-90)" fill="#ffa600"/>
+      </g>
+      <g id="Group_629" data-name="Group 629" transform="translate(0 216.84)">
+        <rect id="Rectangle_418" data-name="Rectangle 418" width="17.5" height="118.469" rx="7.636" transform="translate(0 17.5) rotate(-90)" fill="#284b9b"/>
+      </g>
+      <g id="Group_630" data-name="Group 630" transform="translate(0 45.839)">
+        <rect id="Rectangle_419" data-name="Rectangle 419" width="17.5" height="118.469" rx="7.636" transform="translate(0 17.5) rotate(-90)" fill="#284b9b"/>
+      </g>
+      <g id="Group_631" data-name="Group 631" transform="translate(0 259.591)">
+        <rect id="Rectangle_420" data-name="Rectangle 420" width="17.5" height="118.469" rx="7.636" transform="translate(0 17.5) rotate(-90)" fill="#ea372e"/>
+      </g>
+      <g id="Group_632" data-name="Group 632" transform="translate(0 88.589)">
+        <rect id="Rectangle_421" data-name="Rectangle 421" width="17.5" height="118.469" rx="7.636" transform="translate(0 17.5) rotate(-90)" fill="#ea372e"/>
+      </g>
+      <g id="Group_633" data-name="Group 633" transform="translate(0 302.341)">
+        <rect id="Rectangle_422" data-name="Rectangle 422" width="17.5" height="118.469" rx="7.636" transform="translate(0 17.5) rotate(-90)" fill="#563f91"/>
+      </g>
+      <g id="Group_634" data-name="Group 634" transform="translate(0 345.092)">
+        <rect id="Rectangle_423" data-name="Rectangle 423" width="17.5" height="118.469" rx="7.636" transform="translate(0 17.5) rotate(-90)" fill="#ffa600"/>
+      </g>
+    </g>
+  </g>
+</svg>

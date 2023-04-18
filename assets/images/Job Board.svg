@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="90" viewBox="0 0 120 90">
+  <defs>
+    <clipPath id="clip-Job_Board">
+      <rect width="120" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="Job_Board" data-name="Job Board" clip-path="url(#clip-Job_Board)">
+    <g id="Group_669" data-name="Group 669" transform="translate(-505 -2587)">
+      <rect id="Rectangle_427" data-name="Rectangle 427" width="23.504" height="14.59" transform="translate(553.655 2602.663)" fill="none" stroke="#563f91" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <rect id="Rectangle_428" data-name="Rectangle 428" width="62.97" height="45.03" rx="5.443" transform="translate(533.922 2617.253)" fill="none" stroke="#563f91" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

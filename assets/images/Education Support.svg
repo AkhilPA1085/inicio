@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="90" viewBox="0 0 120 90">
+  <defs>
+    <clipPath id="clip-Education_Support">
+      <rect width="120" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="Education_Support" data-name="Education Support" clip-path="url(#clip-Education_Support)">
+    <g id="Group_644" data-name="Group 644" transform="translate(-154 -2931.443)">
+      <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="39.126" cy="39.126" rx="39.126" ry="39.126" transform="translate(174.908 2937.405)" fill="none" stroke="#ea372e" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="27.666" cy="27.666" rx="27.666" ry="27.666" transform="translate(186.368 2948.865)" fill="none" stroke="#ea372e" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="Line_1" data-name="Line 1" x2="11.46" transform="translate(241.7 2976.531)" fill="none" stroke="#ea372e" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="Line_2" data-name="Line 2" x2="11.46" transform="translate(174.908 2976.531)" fill="none" stroke="#ea372e" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="Line_3" data-name="Line 3" y1="11.46" transform="translate(214.034 2937.405)" fill="none" stroke="#ea372e" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="Line_8" data-name="Line 8" y1="11.46" transform="translate(215 3004.27)" fill="none" stroke="#ea372e" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
