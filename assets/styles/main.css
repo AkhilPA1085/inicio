@@ -197,6 +197,7 @@ Banner
     -webkit-justify-content: center;
     -webkit-align-items: center;
     color: #fff;
+    background: rgba(0, 0, 0, 0.60);
 }
 
 .banner .text-wrapper .banner-title{
