@@ -6,6 +6,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     background-color: #F8F8F8;
+    font-family: 'Nunito', sans-serif;
 }
 
 ::-webkit-scrollbar{
@@ -33,6 +34,7 @@ h6,
 p{
     padding: 0;
     margin: 0;
+    font-family: 'Nunito', sans-serif;
 }
 
 .section-sub-title{
@@ -40,15 +42,18 @@ p{
     letter-spacing: 2px;
     font-weight: 600;
     color: var(--red);
+    font-family: 'Nunito', sans-serif;
 }
 
 .section-main-title{
     color: var(--dark-blue);
     font-weight: 700;
+    font-family: 'Nunito', sans-serif;
 }
 
 .section-description{
     color: var(--dark-blue);
+    font-family: 'Nunito', sans-serif;
 }
 
 /*--------------------------------------------------------- 
@@ -152,6 +157,10 @@ header a{
     text-transform: capitalize;
     font-weight: 600;
     margin-right: 20px;
+}
+
+header .filled-green-btn{
+    color: #fff !important;
 }
 
 header .navbar-toggler,header .navbar-toggler:focus{
